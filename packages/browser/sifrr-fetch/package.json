@@ -40,7 +40,7 @@
     "@sifrr/dev": "^0.0.44",
     "@types/busboy": "^0.2.3",
     "@types/mkdirp": "^1.0.0",
-    "@types/yargs": "^15.0.12",
+    "@types/yargs": "^16.0.0",
     "axios": "^0.21.1",
     "cache-manager": "^3.4.0",
     "graphql-subscriptions": "^1.1.0",
