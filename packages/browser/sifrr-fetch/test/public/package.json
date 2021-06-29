@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "busboy": "^0.3.0",
-    "uWebSockets.js": "uNetworking/uWebSockets.js#v18.11.0"
+    "uWebSockets.js": "uNetworking/uWebSockets.js#v19.3.0"
   },
   "devDependencies": {
     "eslint": "^7.0.0"
