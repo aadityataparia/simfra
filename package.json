@@ -61,7 +61,7 @@
     "graphql-subscriptions": "^1.1.0",
     "isomorphic-ws": "^4.0.1",
     "loadtest": "^5.1.2",
-    "uWebSockets.js": "uNetworking/uWebSockets.js#v18.12.0",
+    "uWebSockets.js": "uNetworking/uWebSockets.js#v19.3.0",
     "ws": "^7.4.2"
   },
   "resolutions": {
