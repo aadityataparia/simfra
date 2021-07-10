@@ -43,7 +43,7 @@
     "@babel/plugin-proposal-class-properties": "^7.12.1",
     "@sifrr/dev": "^0.0.44",
     "@types/busboy": "^0.2.3",
-    "@types/mkdirp": "^1.0.0",
+    "@types/mkdirp": "^1.0.2",
     "@types/yargs": "^15.0.12",
     "axios": "^0.21.1",
     "cache-manager": "^3.4.0",
